@@ -9,7 +9,7 @@
 
 
 ### Team Members
--Member 1:Anagha Mary Manjila - Sahrdaya college of engineering and technology
+- Member 1:Anagha Mary Manjila - Sahrdaya college of engineering and technology
 - Member 3: Alona Jayan- Sahrdaya college of engineering and technology
 
 ### Project Description
