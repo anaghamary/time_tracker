@@ -45,10 +45,10 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-Screenshot (3).png
-Screenshot (4).png
-Screenshot (5).png
-Screenshot (6).png
+- Screenshot (3).png
+- Screenshot (4).png
+- Screenshot (5).png
+- Screenshot (6).png
 
 ### Project Demo
 # Video
@@ -58,7 +58,6 @@ https://drive.google.com/file/d/1mFQzwdQBtHepooYBpacICA_F4X92OD3T/view?usp=shari
 ## Team Contributions
 - Alona Jayan: frontend
 - Anagha Mary Manjila: backend
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
