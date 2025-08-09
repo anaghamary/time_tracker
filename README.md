@@ -46,25 +46,18 @@ For Software:
 
 # Screenshots (Add at least 3)
 Screenshot (3).png
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-
-
-
+Screenshot (4).png
+Screenshot (5).png
+Screenshot (6).png
 
 ### Project Demo
 # Video
-
+https://drive.google.com/file/d/1mFQzwdQBtHepooYBpacICA_F4X92OD3T/view?usp=sharing
 
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- Alona Jayan: frontend
+- Anagha Mary Manjila: backend
 - [Name 3]: [Specific contributions]
 
 ---
